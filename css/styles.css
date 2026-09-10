@@ -154,7 +154,7 @@
   .hero .eyebrow{ }
   .hero-sub{
     max-width:34ch;
-    color:var(--ivory-dim);
+    color:var(--ivory);
     font-size:1rem;
     opacity:0;
     animation:fadein .9s .8s ease forwards;
