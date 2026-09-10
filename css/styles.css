@@ -89,7 +89,7 @@
     font-size:.82rem;
     letter-spacing:.08em;
     text-transform:uppercase;
-    color:var(--ivory-dim);
+    color:var(--ivory);
     position:relative;
     transition:color .3s ease;
   }
