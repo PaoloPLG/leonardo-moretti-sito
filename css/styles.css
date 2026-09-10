@@ -235,7 +235,6 @@
   .photo-panel{
     aspect-ratio:3/4.3;
     background:linear-gradient(155deg, #1c1a17 0%, #0b0b0c 70%);
-    border:1px solid var(--line);
     position:relative;
     display:flex;
     align-items:center;
