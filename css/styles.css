@@ -469,7 +469,8 @@
   .bio-article{
     max-width:740px;
     margin:0 auto;
-    padding:5rem 0 8rem;
+    padding-top:5rem;
+    padding-bottom:8rem;
   }
   .bio-article h2{
     font-family:var(--display);
